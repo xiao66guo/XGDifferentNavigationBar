@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>1.jpeg</string>
+		<key>name</key>
+		<string>首席的抢手小小妻</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>2.jpeg</string>
+		<key>name</key>
+		<string>美女老师的全能高手</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>3.jpeg</string>
+		<key>name</key>
+		<string>恋上22岁绝美总裁</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>4.jpeg</string>
+		<key>name</key>
+		<string>问佛</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5.jpeg</string>
+		<key>name</key>
+		<string>宝宝心里苦啊</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>6.jpeg</string>
+		<key>name</key>
+		<string>逍遥小神农</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>7.jpeg</string>
+		<key>name</key>
+		<string>上海请不要为我悲伤</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>8.jpeg</string>
+		<key>name</key>
+		<string>帝姬江山</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>9.jpeg</string>
+		<key>name</key>
+		<string>冷酷校草温柔妻</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>10.jpeg</string>
+		<key>name</key>
+		<string>老婆别闹了</string>
+	</dict>
+</array>
+</plist>

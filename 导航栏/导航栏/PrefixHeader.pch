@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  导航栏
+//
+//  Created by 小果 on 16/9/10.
+//  Copyright © 2016年 小果. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "UIColor+Tools.h"
+#import "UIView+Extension.h"
+#import "UINavigationBar+XGAlphaBar.h"
+
+#define ScreenW [UIScreen mainScreen].bounds.size.width
+#define ScreenH [UIScreen mainScreen].bounds.size.height
+#define XGHeaderImageH 200
+// 生成一个字符串
+#define NSString(...) [NSString stringWithFormat:__VA_ARGS__]
+#define XGMaxSections 3
+#define XGCellIdentifier @"cell"
+
+
+#endif /* PrefixHeader_pch */
